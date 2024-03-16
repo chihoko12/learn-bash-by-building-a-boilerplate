@@ -276,3 +276,6 @@ cp --help
 ls --color=auto
 cp website-boilerplate toms-website
 cp -r website-boilerplate toms-website
+ls --color=auto
+ld
+ls --color=auto
