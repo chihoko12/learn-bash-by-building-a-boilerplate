@@ -96,3 +96,10 @@ touch .gitignore
 ls --color=auto
 ls --color=auto --help
 ls --color=auto -a
+cd ..
+cd .
+ls --color=auto
+cd website
+ls --color=auto
+ls --color=auto -a
+cd .
