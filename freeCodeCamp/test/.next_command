@@ -69,3 +69,5 @@ more LICENSE-MIT
 clear
 ls --color=auto
 cd src
+__vsc_prompt_cmd_original
+pwd
