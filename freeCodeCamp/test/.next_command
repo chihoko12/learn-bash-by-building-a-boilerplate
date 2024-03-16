@@ -180,3 +180,7 @@ cd assets
 ls --color=auto
 cd images
 cd ../../..
+cd client/assets/images
+cd ../../../
+ls --color=auto
+cd images
