@@ -71,3 +71,6 @@ ls --color=auto
 cd src
 __vsc_prompt_cmd_original
 pwd
+__vsc_prompt_cmd_original
+more /
+ls --color=auto
