@@ -273,3 +273,6 @@ mv website website-boilerplate
 ls --color=auto
 cp -help
 cp --help
+ls --color=auto
+cp website-boilerplate toms-website
+cp -r website-boilerplate toms-website
